@@ -1,0 +1,84 @@
+MagePal LLC. End User License Agreement (EULA). 
+
+Please read our Terms and Conditions of Use (“Terms”) and Privacy Policy carefully, as it sets out the terms and
+conditions in which our products are licensed. 
+
+Downloading the Software from our website or third-party means that you agree with the terms and conditions of this
+EULA. You further agree that any person you authorize to use the Software will also be bound by these terms and
+conditions of our EULA. 
+
+
+If you do not agree to this EULA, you must not use the software for any purpose whatsoever and destroy all copies
+immediately.
+
+By using the software and services (other than to read this page for the first time), you agree to comply with all of
+the Terms of Use set forth: 
+
+1. This license agreement (“Agreement”) is an agreement between you (the person or company who is being licensed to use
+the Software or documentation) and MagePal LLC. (“MagePal”, “we”, “us”, “our”). The Agreement applies to all
+Software (“products”, “extensions”, “plugins”, “scripts”, “services”) you purchase or any other content, software and
+material that is made available by MagePal LLC whether paid, free or open source.  
+
+2. By purchasing or using any of our Software you acknowledge that you have read this Agreement, and that you agree to
+the content of this Agreement, and agree to use the Software in compliance with this Agreement and protect our
+intellectual property from unauthorized misuse. 
+
+3. The Agreement comes into full legal binding upon purchasing of the Software or receive it through email or any other
+data medium and/or third-party. 
+
+4. You acknowledge that the Software has not been developed to meet your individual requirements, and that it is
+therefore your responsibility to ensure that the facilities and functions of the Software as described in the Documents
+meet your requirements.
+
+5. The Software or a portion of it is copyright, we are the sole copyright holder. We reserve the right to revoke the
+license of any user who is in possession of an invalid or un-licensed copy. If you continue to use our Software after
+MagePal LLC gives you notice of termination of your license or unlicensed product, you hereby agree to reframe from
+further usage, destroy all copies and to pay all costs if any (including but not limited to reasonable attorney fees)
+to enforce our cancellation of your license and any damages suffered by us because of your misuse. 
+
+6. This Agreement gives you the right to use one copy of the Software (excluding development, staging or testing servers)
+solely for your personal or business use, subject to all other terms of this Agreement. A separate License should be
+purchased for each new project and/or client.
+
+7. You may not use any part of the code in whole or part in any other software or product. 
+
+8. You may not sell, sub-license, rent, lease or lend any portion of the Software or Documentation. Any copying,
+redistributing, reproducing, transferring, displaying to the public, or making available to the public without our
+consent, including noncommercial distribution (public network such as the Internet, github, bitbucket, packagist, etc)
+is regarded as a violation of this Agreement and will be enforce according to the law and you agree to paid all costs
+(including but not limited to reasonable attorney fees) to protect our intellectual property and any damages suffered
+by us because of your misuse.  
+
+9. You may not remove or alter any branding, copyright, disclaimer, terms of use, or any other proprietary notices or
+marks within the extension. Including but not limited to MagePal branding in file names, class names, variables, texts
+or UI. All copyright information should remain intact, including texts and/or links. 
+
+10. UNDER NO CIRCUMSTANCES ARE WE LIABLE FOR ANY DAMAGES ARISING from using any of our products or services purchased
+through this website, be it indirect, special, incidental or consequential damages (including but not limited to loss
+of profits, sales, business, or revenue, loss or corruption of data or information, business interruption, loss of
+business opportunity, any indirect or consequential loss or damage or the like). Always test on a development
+environment and backup your data and content. 
+
+11. We are not liable for the mis-use of the software, using against law or any another illegal activity. 
+
+12. License agreement remains effective until terminated. We reserve the right to terminate your rights to use our
+Software at any time, and at our sole discretion, if you are in breach of this agreement and/or not abiding by the terms
+of the Agreement, including, but not limited to, obscuring or removing any link or copyright notice as specified in
+this agreement.
+
+ 13. You may terminate your license at any time by destroying all copies of the Software. Termination of this Agreement
+does not bind us to issue an refund whether in part or full of your purchase amount, if more than 30 days have passed
+since the purchase date. We reserves the right to terminate all software licenses, all orders and support services for
+any customer in violation of the Agreement. 
+
+14. Any dispute of any kind, whether for breach of support, or otherwise, shall be resolved by the Federal or State
+Courts located in the State of New Jersey that govern Passaic County. 
+
+15. MagePal LLC. reserves the right, at our discretion, to change, modify, add or remove portions of our Terms of Use
+and Privacy Policy at any time and from time to time. These changes will be posted for general public view on our website. 
+
+Last updated on July 2nd, 2018 and latest version is available at www.magepal.com/license.txt
+
+
+
+
