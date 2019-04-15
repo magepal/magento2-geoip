@@ -8,7 +8,14 @@
 
 namespace MagePal\GeoIp\Helper;
 
-class Data extends \Magento\Framework\App\Helper\AbstractHelper
+use Magento\Framework\App\Helper\AbstractHelper;
+use Magento\Store\Model\ScopeInterface;
+
+/**
+ * Class Data
+ * @package MagePal\GeoIp\Helper
+ */
+class Data extends AbstractHelper
 {
     /**
      * Is enabled
@@ -21,6 +28,9 @@ class Data extends \Magento\Framework\App\Helper\AbstractHelper
         return $this->isSetFlag('general/active', $store_id);
     }
 
+    /**
+     * @return array
+     */
     public function getIgnoreUserAgentArray()
     {
         return (array) array_map(
@@ -29,6 +39,9 @@ class Data extends \Magento\Framework\App\Helper\AbstractHelper
         );
     }
 
+    /**
+     * @return array
+     */
     public function getIgnoreIpAddressArray()
     {
         return (array) array_map(
@@ -41,7 +54,7 @@ class Data extends \Magento\Framework\App\Helper\AbstractHelper
      * Get system config
      *
      * @param String path
-     * @param \Magento\Store\Model\ScopeInterface::SCOPE_STORE $store
+     * @param ScopeInterface::SCOPE_STORE $store
      * @return string
      */
     public function getConfigValue($path, $store_id = null)
@@ -50,7 +63,7 @@ class Data extends \Magento\Framework\App\Helper\AbstractHelper
         //return value from core config
         return $this->scopeConfig->getValue(
             $path,
-            \Magento\Store\Model\ScopeInterface::SCOPE_STORE,
+            ScopeInterface::SCOPE_STORE,
             $store_id
         );
     }
@@ -59,7 +72,7 @@ class Data extends \Magento\Framework\App\Helper\AbstractHelper
      * Get system config
      *
      * @param String path
-     * @param \Magento\Store\Model\ScopeInterface::SCOPE_STORE $store
+     * @param ScopeInterface::SCOPE_STORE $store
      * @return string
      */
     public function isSetFlag($path, $store_id = null)
@@ -68,7 +81,7 @@ class Data extends \Magento\Framework\App\Helper\AbstractHelper
         //return value from core config
         return $this->scopeConfig->isSetFlag(
             $path,
-            \Magento\Store\Model\ScopeInterface::SCOPE_STORE,
+            ScopeInterface::SCOPE_STORE,
             $store_id
         );
     }

@@ -13,6 +13,10 @@ use Magento\Framework\App\RequestInterface;
 use Magento\Framework\HTTP\PhpEnvironment\RemoteAddress;
 use Magento\Framework\Module\Dir as ModuleDirectory;
 
+/**
+ * Class GeoIpService
+ * @package MagePal\GeoIp\Service
+ */
 class GeoIpService
 {
 
